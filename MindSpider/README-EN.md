@@ -1,5 +1,7 @@
 # MindSpider - AI Crawler Designed for Public Opinion Analysis
 
+> **Note**: This is an English translation of the original Chinese documentation. The original project [BettaFish](https://github.com/666ghj/BettaFish) was created by [666ghj](https://github.com/666ghj). This translation was contributed to help non-Chinese speakers understand and use this excellent multi-agent public opinion analysis system.
+
 > Disclaimer:
 > All content in this repository is for learning and reference purposes only. Commercial use is prohibited. No individual or organization may use the content of this repository for illegal purposes or to infringe on the legitimate rights of others. The web scraping technology involved in this repository is only for learning and research purposes and must not be used for large-scale scraping of other platforms or any other illegal activities. This repository assumes no responsibility for any legal liabilities arising from the use of its content. By using the content of this repository, you agree to all terms and conditions of this disclaimer.
 

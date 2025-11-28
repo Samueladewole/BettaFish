@@ -1,5 +1,7 @@
 # Multilingual Sentiment Analysis
 
+> **Note**: This is an English translation of the original Chinese documentation. The original project [BettaFish](https://github.com/666ghj/BettaFish) was created by [666ghj](https://github.com/666ghj). This translation was contributed to help non-Chinese speakers understand and use this project.
+
 This module uses a multilingual sentiment analysis model from HuggingFace, supporting 22 languages.
 
 ## Model Information

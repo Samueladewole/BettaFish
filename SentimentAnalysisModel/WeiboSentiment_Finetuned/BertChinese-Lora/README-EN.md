@@ -1,5 +1,7 @@
 # Weibo Sentiment Analysis - Fine-tuned BertChinese Model
 
+> **Note**: This is an English translation of the original Chinese documentation. The original project [BettaFish](https://github.com/666ghj/BettaFish) was created by [666ghj](https://github.com/666ghj). This translation was contributed to help non-Chinese speakers understand and use this project.
+
 This module uses a pre-trained Weibo sentiment analysis model from HuggingFace.
 
 ## Model Information

@@ -1,5 +1,7 @@
 # Weibo Sentiment Recognition Model - GPT2-Adapter Fine-tuning
 
+> **Note**: This is an English translation of the original Chinese documentation. The original project [BettaFish](https://github.com/666ghj/BettaFish) was created by [666ghj](https://github.com/666ghj). This translation was contributed to help non-Chinese speakers understand and use this project.
+
 ## Project Description
 This is a Weibo sentiment binary classification model based on GPT2, using Adapter fine-tuning technology. Through Adapter fine-tuning, the model can be adapted to sentiment analysis tasks with only a small number of trainable parameters, significantly reducing computational resource requirements and model size.
 

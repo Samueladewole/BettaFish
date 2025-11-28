@@ -1,5 +1,7 @@
 ## Topic Classification (BERT Chinese Base)
 
+> **Note**: This is an English translation of the original Chinese documentation. The original project [BettaFish](https://github.com/666ghj/BettaFish) was created by [666ghj](https://github.com/666ghj). This translation was contributed to help non-Chinese speakers understand and use this project.
+
 This directory provides a Chinese topic classification implementation using `google-bert/bert-base-chinese`:
 - Automatically handles three-stage loading logic: local/cache/remote;
 - `train.py` for fine-tuning training; `predict.py` for single or interactive prediction;
