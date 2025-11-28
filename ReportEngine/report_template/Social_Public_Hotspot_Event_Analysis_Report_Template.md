@@ -1,0 +1,25 @@
+### **Social Public Hotspot Event Analysis Report Template**
+
+- **1.0 Report Summary**
+  - 1.1 Event Classification
+  - 1.2 Core Insights
+  - 1.3 Relevance & Recommendations
+- **2.0 Event Panorama & Evolution**
+  - 2.1 Event Background & Origin
+  - 2.2 Public Opinion Fermentation Timeline
+  - 2.3 Current Situation
+- **3.0 Dissemination Path & Trigger Point Analysis**
+  - 3.1 Core Dissemination Chain
+  - 3.2 Trigger Point Analysis
+  - 3.3 Key Dissemination Actors
+- **4.0 Multi-party Viewpoints & Sentiment Spectrum in Public Opinion**
+  - 4.1 Core Topics & Discussion Focus
+  - 4.2 Diverse Viewpoint Presentation
+  - 4.3 Social Sentiment Analysis
+- **5.0 Deep Causes & Value Discussion**
+  - 5.1 Social Mentality Behind the Event
+  - 5.2 Derivative Culture & Internet Memes
+- **6.0 Relevance Assessment & Action Recommendations**
+  - 6.1 Risk Assessment
+  - 6.2 Opportunity Assessment
+  - 6.3 Final Action Recommendations (Engage/Monitor/Avoid)
